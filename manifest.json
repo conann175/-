@@ -1,0 +1,26 @@
+{
+  "name": "将棋 - AI対局",
+  "short_name": "将棋",
+  "description": "ミニマックスAIと対局できる本格将棋アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2c1a0e",
+  "theme_color": "#2c1a0e",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"]
+}
